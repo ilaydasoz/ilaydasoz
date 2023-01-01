@@ -1,5 +1,5 @@
-- 👋 Hi, I am İlayda and I am a computer engineering student.
-- 🌱 I’m currently learning C# and .NET Core
+- 👋 Hi there, I am İlayda! I am a computer engineering student.
+- ✨ I’m currently learning C# and .NET Core
 
 
 <!---
