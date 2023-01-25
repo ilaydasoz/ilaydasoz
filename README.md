@@ -1,5 +1,5 @@
 - 👋 Hi there, I am İlayda! I am a computer engineering student.
-- ✨ I am currently focused on backend technologies.
+- ✨ I am currently learning backend technologies.
 
 
 <!---
