@@ -1,5 +1,5 @@
 - 👋 Hi there, I am İlayda! I am a computer engineering student.
-- ✨ I am currently learning C# and .NET Core
+- ✨ I am currently focused on backend technologies.
 
 
 <!---
