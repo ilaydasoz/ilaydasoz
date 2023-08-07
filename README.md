@@ -1,4 +1,4 @@
-- 👋 Hi there, I am İlayda! I am a computer engineering student.
+- 👋 Hi there, I am İlayda! I am a freshly graduated computer engineer.
 - ✨ I am currently learning backend technologies.
 
 
