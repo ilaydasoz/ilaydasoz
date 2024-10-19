@@ -1,6 +1,7 @@
 👋 hi there, I am İlayda!  
-✨ a **computer scientist** pursuing a master's degree.  
-🤓 currently interested in data and ai.  
+🤓 a **computer scientist** pursuing a master's degree @*JMU*.     
+✨ currently interested in data and ai.  
+
 
 
 <!---
