@@ -1,7 +1,7 @@
 👋 hi there, I am İlayda!  
 🤓 a **computer scientist** pursuing a master's degree @*JMU*.     
-✨ currently interested in data, ai and nlp. 
-📩 ilaydasozyilmaz@gmail.com
+✨ currently interested in data, ai and nlp.   
+✉️ ilaydasozyilmaz@gmail.com
 
 
 
