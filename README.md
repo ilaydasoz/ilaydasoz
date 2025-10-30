@@ -1,6 +1,3 @@
-👋 hi there, I am İlayda!  
-🤓 a **computer scientist** pursuing a master's degree @*JMU*.     
-✨ currently interested in **data**, **ai** and **nlp**.   
 👩🏼‍💻 [linkedln](https://www.linkedin.com/in/ilaydasozyilmaz/)  
 📝 [medium](https://medium.com/@ilaydasozyilmaz)
 
